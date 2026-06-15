@@ -1,0 +1,84 @@
+[
+  {
+    "id": "ORD-1781551337495",
+    "fecha": "2026-06-15T19:22:17.495Z",
+    "cliente": {
+      "nombre": "Tester 1012",
+      "telefono": "01164934610",
+      "calle": "Medeyros",
+      "altura": "3423",
+      "pisoDepto": "1",
+      "barrio": "Villa Crespo",
+      "metodoPago": "Efectivo",
+      "notas": ""
+    },
+    "items": [
+      {
+        "id": "arepa-pabellon",
+        "nombre": "Arepa de Pabellón",
+        "descripcion": "Carne mechada, porotos negros, tajadas y queso duro.",
+        "precio": 5500,
+        "categoria": "Arepas",
+        "imagen_url": "/assets/pabellon.jpg",
+        "disponible": true,
+        "opciones": [
+          {
+            "nombre": "Extra Queso",
+            "precio": 800
+          },
+          {
+            "nombre": "Extra Palta",
+            "precio": 1000
+          }
+        ],
+        "cartItemId": "arepa-pabellon",
+        "selectedExtras": [],
+        "precioUnitarioTotal": 5500,
+        "quantity": 1
+      }
+    ],
+    "total": 5500,
+    "estado": "en preparación"
+  },
+  {
+    "id": "ORD-1781552902464",
+    "fecha": "2026-06-15T19:48:22.465Z",
+    "cliente": {
+      "nombre": "Tester 1012",
+      "telefono": "01164394610",
+      "calle": "Medeyros",
+      "altura": "3423",
+      "pisoDepto": "1",
+      "barrio": "Villa Crespo",
+      "metodoPago": "Efectivo",
+      "notas": ""
+    },
+    "items": [
+      {
+        "id": "arepa-pabellon",
+        "nombre": "Arepa de Pabellón",
+        "descripcion": "Carne mechada, porotos negros, tajadas y queso duro.",
+        "precio": 5500,
+        "categoria": "Arepas",
+        "imagen_url": "/assets/pabellon.jpg",
+        "disponible": true,
+        "opciones": [
+          {
+            "nombre": "Extra Queso",
+            "precio": 800
+          },
+          {
+            "nombre": "Extra Palta",
+            "precio": 1000
+          }
+        ],
+        "cartItemId": "arepa-pabellon",
+        "selectedExtras": [],
+        "precioUnitarioTotal": 5500,
+        "quantity": 1
+      }
+    ],
+    "total": 5500,
+    "estado": "pendiente"
+  }
+]
